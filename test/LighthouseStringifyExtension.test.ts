@@ -16,9 +16,9 @@
 
 import snapshot from 'snap-shot-it';
 
-import { stringify } from '../../src/stringify.js';
-import { LighthouseStringifyExtension } from '../../src/lighthouse/LighthouseStringifyExtension.js';
-import { AssertedEventType, StepType, UserFlow } from '../../src/Schema.js';
+import { stringify } from '../src/stringify.js';
+import { LighthouseStringifyExtension } from '../src/lighthouse/LighthouseStringifyExtension.js';
+import { AssertedEventType, StepType, UserFlow } from '../src/Schema.js';
 
 describe('LighthouseStringifyExtension', () => {
   it('handles ending timespan', async () => {
