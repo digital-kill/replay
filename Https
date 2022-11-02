@@ -1,0 +1,9 @@
+/google-callback/access_type: offline
+response_type: code
+state: ?ReturnUrl=https:%2f%2fwww.appsheet.com%2ftemplate%2fGetTheAppInternal%3fprovider%3dgoogle%26channel%3dgsheets%26docId%3d1_PFXiB5Pb0L9rinXhYXfedtUhJcW4QLN-XSh_hRChGY%26fromAndroidAddon%3dtrue%26docName%3dDIGITAL+SELL&FullScope=yes&csrf-request-id=47fc23b2-dae0-434e-badd-f0e810d6974d&__csrf__=KouAy6-y43eBuq9Cwc-FoQ9Dxf9YmSHVo4VAcpdLCci2YEZfcqBnE4iAuCzXtbX4-a74HQT0aSmbmU4FSh3TeAa1OPn7ItLpNWKTCY6FgBi1dtYKLjXg3Q6EZu-UCwcyPQzghP00F6_ClUs8tgZamw2&__provider__=google&ru=https%3a%2f%2fwww.appsheet.com%2fAccount%2fELCGD
+redirect_uri: https://www.appsheet.com/Account/ELCGD
+client_id: 953348912797-h2fo9tmk42mnrkk0kc6gula9i8ipv3re.apps.googleusercontent.com
+include_granted_scopes: true
+suppress_webview_warning: true
+prompt: consent
+scope: https://www.googleapis.com/auth/userinfo.profile openid https://www.googleapis.com/auth/userinfo.email https://spreadsheets.google.com/feeds https://www.googleapis.com/auth/drive
